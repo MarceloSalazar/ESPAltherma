@@ -208,7 +208,7 @@ LabelDef labelDefs[] = {
 //{0x63,12,303,1,-1,"[HPSU] Tank heating bivalent output signal"},
 //{0x63,12,302,1,-1,"[HPSU] Tank heating bivalent primary heat source (OFF:HP  ON:Boiler)"},
 {0x63,12,317,1,-1,"RT Control State (0:thermo off 1:thermo on 2:buffering)"},
-{0x63,13,152,1,-1,"BUH output capacity"},
+{0x63,13,311,1,-1,"BUH output capacity"},
 //{0x63,14,161,1,-1,"Current measured by CT sensor of L1"},
 //{0x63,15,161,1,-1,"Current measured by CT sensor of L2"},
 //{0x63,16,307,1,-1,"HP Forced FG"},
